@@ -3,14 +3,14 @@
 Draft rationale (v1): a camera-off moment is shared office knowledge,
 and falling asleep in a meeting only to inherit the work is the turn.
 The surprise lands at the end, in the action items.
-Polish 1 rationale: cut "during the meeting" as redundant (camera-off
-already places it in a meeting) and swap it for "one yawn", so the
-small cause and the outsized consequence sit closer together.
+Polish 2 rationale: add "somehow" before the waking, so the
+consequence reads as involuntary and unseen rather than chosen;
+the turn, not a complaint, does the funny work.
 """
 
 from pathlib import Path
 
-ENTRY = "I turned my camera off for one yawn and woke up owning all the action items."
+ENTRY = "I turned my camera off for one yawn and somehow woke up owning all the action items."
 
 
 def main() -> None:
